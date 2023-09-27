@@ -1,6 +1,7 @@
-package dao;
+package dao.Interface;
 
 import Model.Hospital;
+import Model.Patient;
 
 import java.util.List;
 import java.util.Map;
